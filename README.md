@@ -1,5 +1,5 @@
 # learning_cloud
-1st update /n
-2nd update /n
-some new changes for git commands 
+1st update
+2nd update
+some new changes for git commands
 made new changes using branch
